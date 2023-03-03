@@ -117,7 +117,7 @@ setup(
             "opencv-python",
             # For atari games,
             "ale-py~=0.7.4",
-            "autorom=0.5.5",
+            "autorom~=0.5.5",
             "pillow",
             # Tensorboard support
             "tensorboard>=2.2.0",
